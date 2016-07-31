@@ -5,6 +5,7 @@ Run `npm install` to set project & download libraries.
 ## Running
 
 * Q1: `node app-1.js`
+* Q2: `node app-2.js`
 
 ## Tests
 
