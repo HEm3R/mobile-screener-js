@@ -1,0 +1,19 @@
+{
+  "name": "mobile-screener-js",
+  "version": "1.0.0",
+  "description": "Part 2",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha --reporter spec test"
+  },
+  "author": "Vaclav Chalupa",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "jshint": "^2.9.1",
+    "mocha": "^2.4.5",
+    "mockery": "^1.6.2",
+    "sinon": "^1.17.3"
+  },
+  "dependencies": {
+  }
+}
